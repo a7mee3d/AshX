@@ -1,0 +1,9 @@
+{
+  "Enabled": false,
+  "DelayEnabled": false,
+  "DelayMs": 0,
+  "BlockChat": false,
+  "MainHandle": 0,
+  "SecondHandle": 0,
+  "BlockedKeys": []
+}
